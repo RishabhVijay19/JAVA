@@ -1,0 +1,6 @@
+1. WAJP to extract a portion of character string and print the extracted string.
+assume that m characters are extracted ,starting with the nth character.
+
+2.WAJP which will read a string and rerwrite it in the alphabatical order for example- "STRING".
+
+3An election is contested by five candidates .the candidates are numbered 1 to 5 and the voting is done by marking the candidate number on the ballot paper . WAP to read the ballots and count the votes cast for each candidates using an array variable count . In case a number is read outside the range 1 to 5 the ballot should be considered as the spoilt ballot and the ptrogram should also count the number of spoilt ballots .x
